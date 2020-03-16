@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\bin\Debug\cvekŠpraljaJakovWinForm2.1.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\bin\Debug\cvekŠpraljaJakovWinForm2.1.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\bin\Debug\cvekŠpraljaJakovWinForm2.1.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2.1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2._1.Form1.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2._1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2.1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2.1.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovWinForm2.1\cvekŠpraljaJakovWinForm2.1\obj\Debug\cvekŠpraljaJakovWinForm2.1.pdb
